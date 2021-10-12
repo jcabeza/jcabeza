@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![jcabeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcabeza&theme=algolia&show_icons=true&count_private=true)](https://github.com/rossifumax/rossifumax)
+![jcabeza's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcabeza&theme=algolia&langs_count=10&layout=compact)
+
+
 <!--
 **jcabeza/jcabeza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
